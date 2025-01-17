@@ -10,6 +10,7 @@
   <img align="center" alt="hr-DAX" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-dax.svg">
   <img align="center" alt="hr-HTML" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-html5.svg">
   <img align="center" alt="hr-CSS" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-css3.svg">
+  <img align="center" alt="hr-JS" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/bbd53020cc1f577735124e3d46af1c9f0226bfcd/images/img-js.svg">
   <img align="center" alt="hr-Figma" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-figma.svg">
   <img align="center" alt="hr-Docker" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-docker.svg">
 </div>
