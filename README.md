@@ -16,7 +16,7 @@
   <img align="center" alt="hr-Figma" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-figma.svg">
   <img align="center" alt="hr-Docker" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-docker.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/2e55fca965f8cfd03ee40b456086c20c223e1ae1/images/img-bi.svg">
-  <br>
+  <br><br>
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/77e8c6b7b3ea5bbd5fb1a5c6943e2335fe193e00/images/img-linux.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/77e8c6b7b3ea5bbd5fb1a5c6943e2335fe193e00/images/img-debian.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/77e8c6b7b3ea5bbd5fb1a5c6943e2335fe193e00/images/img-vscode.svg">
