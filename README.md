@@ -3,7 +3,7 @@
 - 📊📈 Hoje trabalho com Análise de Dados
 - 📜✒️ Estudando Python
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:** 
+## <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/0dac396ca8b714a5b5dc52ab9704281c77fe7253/images/img-tool.svg"> **Languages and Tools:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="hr-Python" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-python.svg">
