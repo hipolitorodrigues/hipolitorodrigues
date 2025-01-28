@@ -1,7 +1,7 @@
 ## Olá! **Hipolito Rodrigues** aqui!
 
-- 📊📈 Hoje trabalho com Análise de Dados
-- 📜✒️ Estudando Python
+- <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/f347fd2890116d042ea553942a3c83497235b075/images/img-bitrab.svg"> Trabalho com Análise de Dados <br><br>
+- <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/f347fd2890116d042ea553942a3c83497235b075/images/img-estudo.svg"> Estudando Python
 
 ## <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/0dac396ca8b714a5b5dc52ab9704281c77fe7253/images/img-tool.svg"> **Languages and Tools:**
 
