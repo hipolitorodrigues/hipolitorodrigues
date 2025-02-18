@@ -25,4 +25,5 @@
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/77e8c6b7b3ea5bbd5fb1a5c6943e2335fe193e00/images/img-postman.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/9de3186a6630a8202b927891e2946d79cc3740cf/images/img-node.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/9de3186a6630a8202b927891e2946d79cc3740cf/images/img-hs.svg">
+  <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/6f9635308decf5732737b48da7783114c3fcb189/images/img-ssms.svg">
 </div>
