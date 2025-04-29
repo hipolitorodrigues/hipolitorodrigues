@@ -28,4 +28,5 @@
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/85e219547ec073678f32ff55186846691a67cb2f/images/img-mysql.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/85e219547ec073678f32ff55186846691a67cb2f/images/img-mariadb.svg">
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/85e219547ec073678f32ff55186846691a67cb2f/images/img-sqllite.svg">
+  <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/assets-for-github/blob/b80562593092fbf7183216e6ed280d6772a37fd1/images/main/img-postgresql.svg">
 </div>
