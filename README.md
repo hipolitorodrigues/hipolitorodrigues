@@ -3,7 +3,7 @@
 - <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/f347fd2890116d042ea553942a3c83497235b075/images/img-bitrab.svg"> Data Analysis <br><br>
 - <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/f347fd2890116d042ea553942a3c83497235b075/images/img-estudo.svg"> Python Tools for Automations
 
-## <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/0dac396ca8b714a5b5dc52ab9704281c77fe7253/images/img-tool.svg"> **Languages and Tools:**
+## <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/0dac396ca8b714a5b5dc52ab9704281c77fe7253/images/img-tool.svg"> **Skills and Tools:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="hr-bi" height="30" width="40" src="https://github.com/hipolitorodrigues/hipolitorodrigues/blob/114143df68ba7fa915fd688222147da430c23f8c/images/img-python.svg">
