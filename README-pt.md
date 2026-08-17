@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hipolito Rodrigues 👋
-### **Data Analyst | Especialista no Ecossistema Zoho |  Automação & IA**
+### **Data Analyst | Especialista no Ecossistema Zoho One |  Automação & IA**
 ---
 </div>
 
