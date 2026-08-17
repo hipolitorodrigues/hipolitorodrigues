@@ -71,12 +71,3 @@ Focused on building tailored automated solutions to streamline operational workf
 - ⚙️ **Infrastructure & DevOps**: Solid experience with **Linux / Windows Server** environments, containerization with **Docker**, virtualization (**VMware, Hyper-V**), and process modeling (**BPMN, SCRUM / Agile**).
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hipolitorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hipolitorodrigues&layout=compact&theme=tokyonight"/>
-</div>
-
----

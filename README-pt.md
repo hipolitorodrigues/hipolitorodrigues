@@ -71,12 +71,3 @@ Foco na criação de soluções automatizadas sob medida para otimizar fluxos op
 - ⚙️ **Infraestrutura & DevOps**: Experiência sólida em ambientes **Linux / Windows Server**, contentorização com **Docker**, virtualização (**VMware, Hyper-V**) e modelagem de processos (**BPMN, SCRUM / Agile**).
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hipolitorodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hipolitorodrigues&layout=compact&theme=tokyonight"/>
-</div>
-
----
