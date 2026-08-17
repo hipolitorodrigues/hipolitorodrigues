@@ -1,6 +1,6 @@
 <div align="center">
   
-# Olá! Eu sou o Hipólito Rodrigues 👋
+# Hipolito Rodrigues 👋
 ### **Data Analyst | Especialista no Ecossistema Zoho |  Automação & IA**
 ---
 </div>
